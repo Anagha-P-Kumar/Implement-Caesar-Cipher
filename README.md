@@ -26,6 +26,9 @@ To decrypt, the letters are shifted back by the same value.
 python caesar_cipher.py
 
 ## Follow the prompts to:
+
 Encrypt a message
+
 Decrypt a message
+
 Exit the program
