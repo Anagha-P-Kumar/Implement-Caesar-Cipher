@@ -16,10 +16,10 @@ The Caesar Cipher shifts each letter in the text by a fixed number of positions 
 
 For example:
 
-Original Text: HELLO
-Shift Value: 3
-Encrypted Text: KHOOR
-To decrypt, the letters are shifted back by the same value.
+- Original Text: HELLO
+- Shift Value: 3
+- Encrypted Text: KHOOR
+- To decrypt, the letters are shifted back by the same value.
 
 ## Run the program:
 
